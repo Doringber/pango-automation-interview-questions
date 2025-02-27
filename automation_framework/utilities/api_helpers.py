@@ -12,7 +12,7 @@ class ApiHelper:
         self.api_key = api_key
     
     def get_current_weather_by_city_name(self, city):
-        url = f"{self.base_url}?q={city}&appid={self.api_key}"
+        url = f"{self.base_url}?q={city}&appid={self.api_key}&units=metric"
         self.response = requests.get(url)
         return self.response
 
@@ -23,7 +23,7 @@ class ApiHelper:
         return temperature, feels_like
 
     def get_current_weather_by_city_id(self, city_id):
-        url = f"{self.base_url}?id={city_id}&appid={self.api_key}"
+        url = f"{self.base_url}?id={city_id}&appid={self.api_key}&units=metric"
         self.response = requests.get(url)
         return self.response
 
