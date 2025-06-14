@@ -1,0 +1,402 @@
+[
+  {
+    "city": "New York",
+    "api_data": {
+      "city": "New York",
+      "country": "US",
+      "temperature": 16.9,
+      "feels_like": 16.9,
+      "humidity": 88,
+      "description": "mist",
+      "source": "API"
+    },
+    "web_data": {
+      "city": "New York",
+      "temperature": 16.0,
+      "feels_like": 16.0,
+      "source": "Web",
+      "url": "https://www.timeanddate.com/weather/usa/new-york"
+    },
+    "timestamp": 1749936567.8572388
+  },
+  {
+    "city": "London",
+    "api_data": {
+      "city": "London",
+      "country": "GB",
+      "temperature": 17.0,
+      "feels_like": 16.6,
+      "humidity": 70,
+      "description": "overcast clouds",
+      "source": "API"
+    },
+    "web_data": {
+      "city": "London",
+      "temperature": 17.0,
+      "feels_like": 17.0,
+      "source": "Web",
+      "url": "https://www.timeanddate.com/weather/uk/london"
+    },
+    "timestamp": 1749936574.4965098
+  },
+  {
+    "city": "Tokyo",
+    "api_data": {
+      "city": "Tokyo",
+      "country": "JP",
+      "temperature": 23.2,
+      "feels_like": 24.0,
+      "humidity": 93,
+      "description": "light intensity shower rain",
+      "source": "API"
+    },
+    "web_data": {
+      "city": "Tokyo",
+      "temperature": 24.0,
+      "feels_like": 22.0,
+      "source": "Web",
+      "url": "https://www.timeanddate.com/weather/japan/tokyo"
+    },
+    "timestamp": 1749936581.1868887
+  },
+  {
+    "city": "Sydney",
+    "api_data": {
+      "city": "Sydney",
+      "country": "AU",
+      "temperature": 8.6,
+      "feels_like": 6.7,
+      "humidity": 89,
+      "description": "broken clouds",
+      "source": "API"
+    },
+    "web_data": {
+      "city": "Sydney",
+      "temperature": 9.0,
+      "feels_like": 7.0,
+      "source": "Web",
+      "url": "https://www.timeanddate.com/weather/australia/sydney"
+    },
+    "timestamp": 1749936590.087891
+  },
+  {
+    "city": "Paris",
+    "api_data": {
+      "city": "Paris",
+      "country": "FR",
+      "temperature": 21.6,
+      "feels_like": 21.7,
+      "humidity": 74,
+      "description": "clear sky",
+      "source": "API"
+    },
+    "web_data": {
+      "city": "Paris",
+      "temperature": 20.0,
+      "feels_like": 20.0,
+      "source": "Web",
+      "url": "https://www.timeanddate.com/weather/france/paris"
+    },
+    "timestamp": 1749936596.9099557
+  },
+  {
+    "city": "Berlin",
+    "api_data": {
+      "city": "Berlin",
+      "country": "DE",
+      "temperature": 22.2,
+      "feels_like": 21.7,
+      "humidity": 48,
+      "description": "clear sky",
+      "source": "API"
+    },
+    "web_data": {
+      "city": "Berlin",
+      "temperature": 21.0,
+      "feels_like": 21.0,
+      "source": "Web",
+      "url": "https://www.timeanddate.com/weather/germany/berlin"
+    },
+    "timestamp": 1749936603.848637
+  },
+  {
+    "city": "Mumbai",
+    "api_data": {
+      "city": "Mumbai",
+      "country": "IN",
+      "temperature": 26.0,
+      "feels_like": 26.0,
+      "humidity": 94,
+      "description": "thunderstorm with light rain",
+      "source": "API"
+    },
+    "web_data": {
+      "city": "Mumbai",
+      "temperature": 29.0,
+      "feels_like": 37.0,
+      "source": "Web",
+      "url": "https://www.timeanddate.com/weather/india/mumbai"
+    },
+    "timestamp": 1749936610.6259587
+  },
+  {
+    "city": "Toronto",
+    "api_data": {
+      "city": "Toronto",
+      "country": "CA",
+      "temperature": 20.0,
+      "feels_like": 19.3,
+      "humidity": 48,
+      "description": "few clouds",
+      "source": "API"
+    },
+    "web_data": {
+      "city": "Toronto",
+      "temperature": 21.0,
+      "feels_like": 21.0,
+      "source": "Web",
+      "url": "https://www.timeanddate.com/weather/canada/toronto"
+    },
+    "timestamp": 1749936617.5766802
+  },
+  {
+    "city": "Moscow",
+    "api_data": {
+      "city": "Moscow",
+      "country": "RU",
+      "temperature": 14.7,
+      "feels_like": 14.3,
+      "humidity": 80,
+      "description": "overcast clouds",
+      "source": "API"
+    },
+    "web_data": {
+      "city": "Moscow",
+      "temperature": 15.0,
+      "feels_like": 16.0,
+      "source": "Web",
+      "url": "https://www.timeanddate.com/weather/russia/moscow"
+    },
+    "timestamp": 1749936624.4440532
+  },
+  {
+    "city": "Cairo",
+    "api_data": {
+      "city": "Cairo",
+      "country": "EG",
+      "temperature": 26.4,
+      "feels_like": 26.4,
+      "humidity": 47,
+      "description": "clear sky",
+      "source": "API"
+    },
+    "web_data": {
+      "city": "Cairo",
+      "temperature": 26.0,
+      "feels_like": 26.0,
+      "source": "Web",
+      "url": "https://www.timeanddate.com/weather/egypt/cairo"
+    },
+    "timestamp": 1749936631.2610176
+  },
+  {
+    "city": "Bangkok",
+    "api_data": {
+      "city": "Bangkok",
+      "country": "TH",
+      "temperature": 27.9,
+      "feels_like": 31.9,
+      "humidity": 80,
+      "description": "overcast clouds",
+      "source": "API"
+    },
+    "web_data": {
+      "city": "Bangkok",
+      "temperature": 28.0,
+      "feels_like": 32.0,
+      "source": "Web",
+      "url": "https://www.timeanddate.com/weather/thailand/bangkok"
+    },
+    "timestamp": 1749936637.9572542
+  },
+  {
+    "city": "Rio de Janeiro",
+    "api_data": {
+      "city": "Rio de Janeiro",
+      "country": "BR",
+      "temperature": 21.6,
+      "feels_like": 21.4,
+      "humidity": 60,
+      "description": "clear sky",
+      "source": "API"
+    },
+    "web_data": {
+      "city": "Rio de Janeiro",
+      "temperature": 22.0,
+      "feels_like": 24.0,
+      "source": "Web",
+      "url": "https://www.timeanddate.com/weather/brazil/rio-de-janeiro"
+    },
+    "timestamp": 1749936644.835014
+  },
+  {
+    "city": "Mexico City",
+    "api_data": {
+      "city": "Mexico City",
+      "country": "MX",
+      "temperature": 20.0,
+      "feels_like": 19.5,
+      "humidity": 57,
+      "description": "overcast clouds",
+      "source": "API"
+    },
+    "web_data": {
+      "city": "Mexico City",
+      "temperature": 20.0,
+      "feels_like": 20.0,
+      "source": "Web",
+      "url": "https://www.timeanddate.com/weather/mexico/mexico-city"
+    },
+    "timestamp": 1749936651.6518354
+  },
+  {
+    "city": "Lagos",
+    "api_data": {
+      "city": "Lagos",
+      "country": "NG",
+      "temperature": 23.8,
+      "feels_like": 24.7,
+      "humidity": 95,
+      "description": "overcast clouds",
+      "source": "API"
+    },
+    "web_data": {
+      "city": "Lagos",
+      "temperature": 24.0,
+      "feels_like": 23.0,
+      "source": "Web",
+      "url": "https://www.timeanddate.com/weather/nigeria/lagos"
+    },
+    "timestamp": 1749936658.5778487
+  },
+  {
+    "city": "Istanbul",
+    "api_data": {
+      "city": "Istanbul",
+      "country": "TR",
+      "temperature": 18.4,
+      "feels_like": 18.2,
+      "humidity": 72,
+      "description": "clear sky",
+      "source": "API"
+    },
+    "web_data": {
+      "city": "Istanbul",
+      "temperature": 19.0,
+      "feels_like": 19.0,
+      "source": "Web",
+      "url": "https://www.timeanddate.com/weather/turkey/istanbul"
+    },
+    "timestamp": 1749936665.4915907
+  },
+  {
+    "city": "Seoul",
+    "api_data": {
+      "city": "Seoul",
+      "country": "KR",
+      "temperature": 20.8,
+      "feels_like": 21.4,
+      "humidity": 94,
+      "description": "clear sky",
+      "source": "API"
+    },
+    "web_data": {
+      "city": "Seoul",
+      "temperature": 21.0,
+      "feels_like": 21.0,
+      "source": "Web",
+      "url": "https://www.timeanddate.com/weather/south-korea/seoul"
+    },
+    "timestamp": 1749936672.5818486
+  },
+  {
+    "city": "Buenos Aires",
+    "api_data": {
+      "city": "Buenos Aires",
+      "country": "AR",
+      "temperature": 10.3,
+      "feels_like": 9.8,
+      "humidity": 94,
+      "description": "mist",
+      "source": "API"
+    },
+    "web_data": {
+      "city": "Buenos Aires",
+      "temperature": 11.0,
+      "feels_like": 9.0,
+      "source": "Web",
+      "url": "https://www.timeanddate.com/weather/argentina/buenos-aires"
+    },
+    "timestamp": 1749936679.3057728
+  },
+  {
+    "city": "Jakarta",
+    "api_data": {
+      "city": "Jakarta",
+      "country": "ID",
+      "temperature": 25.2,
+      "feels_like": 26.2,
+      "humidity": 90,
+      "description": "mist",
+      "source": "API"
+    },
+    "web_data": {
+      "city": "Jakarta",
+      "temperature": 24.0,
+      "feels_like": 24.0,
+      "source": "Web",
+      "url": "https://www.timeanddate.com/weather/indonesia/jakarta"
+    },
+    "timestamp": 1749936686.2040813
+  },
+  {
+    "city": "Johannesburg",
+    "api_data": {
+      "city": "Johannesburg",
+      "country": "ZA",
+      "temperature": 6.1,
+      "feels_like": 6.1,
+      "humidity": 64,
+      "description": "clear sky",
+      "source": "API"
+    },
+    "web_data": {
+      "city": "Johannesburg",
+      "temperature": 10.0,
+      "feels_like": 9.0,
+      "source": "Web",
+      "url": "https://www.timeanddate.com/weather/south-africa/johannesburg"
+    },
+    "timestamp": 1749936693.379506
+  },
+  {
+    "city": "Dubai",
+    "api_data": {
+      "city": "Dubai",
+      "country": "AE",
+      "temperature": 35.0,
+      "feels_like": 36.0,
+      "humidity": 36,
+      "description": "clear sky",
+      "source": "API"
+    },
+    "web_data": {
+      "city": "Dubai",
+      "temperature": 35.0,
+      "feels_like": 36.0,
+      "source": "Web",
+      "url": "https://www.timeanddate.com/weather/united-arab-emirates/dubai"
+    },
+    "timestamp": 1749936700.3609998
+  }
+]
