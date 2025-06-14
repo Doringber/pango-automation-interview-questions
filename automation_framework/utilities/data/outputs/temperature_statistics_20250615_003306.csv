@@ -1,0 +1,11 @@
+Temperature Analysis Statistics Report
+Generated:,2025-06-15 00:33:06
+Threshold:,1.0C
+
+Metric,Value,Unit
+Total Cities Analyzed,20,count
+Mean Discrepancy,0.84,Celsius
+Maximum Discrepancy,3.90,Celsius
+Minimum Discrepancy,0.00,Celsius
+Cities Above Threshold,5,count
+Success Rate,100.0,percent

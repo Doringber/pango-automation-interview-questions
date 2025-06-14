@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "title": "Temperature Discrepancy Analysis Report",
+    "generated": "2025-06-15 00:33:06",
+    "threshold": 1.0,
+    "total_cities_analyzed": 20,
+    "cities_above_threshold": 5
+  },
+  "summary_statistics": {
+    "mean_discrepancy": 0.845,
+    "max_discrepancy": 3.9000000000000004,
+    "min_discrepancy": 0,
+    "total_cities": 20
+  },
+  "cities_with_discrepancies": [
+    {
+      "city": "Johannesburg",
+      "temperature_web": 10.0,
+      "feels_like_web": 9.0,
+      "temperature_api": 6.1,
+      "feels_like_api": 6.1,
+      "avg_temperature": 8.05,
+      "discrepancy": 3.9000000000000004,
+      "timestamp": "2025-06-14 21:33:06"
+    },
+    {
+      "city": "Mumbai",
+      "temperature_web": 29.0,
+      "feels_like_web": 37.0,
+      "temperature_api": 26.0,
+      "feels_like_api": 26.0,
+      "avg_temperature": 27.5,
+      "discrepancy": 3.0,
+      "timestamp": "2025-06-14 21:33:06"
+    },
+    {
+      "city": "Paris",
+      "temperature_web": 20.0,
+      "feels_like_web": 20.0,
+      "temperature_api": 21.6,
+      "feels_like_api": 21.7,
+      "avg_temperature": 20.8,
+      "discrepancy": 1.6000000000000014,
+      "timestamp": "2025-06-14 21:33:06"
+    },
+    {
+      "city": "Berlin",
+      "temperature_web": 21.0,
+      "feels_like_web": 21.0,
+      "temperature_api": 22.2,
+      "feels_like_api": 21.7,
+      "avg_temperature": 21.6,
+      "discrepancy": 1.1999999999999993,
+      "timestamp": "2025-06-14 21:33:06"
+    },
+    {
+      "city": "Jakarta",
+      "temperature_web": 24.0,
+      "feels_like_web": 24.0,
+      "temperature_api": 25.2,
+      "feels_like_api": 26.2,
+      "avg_temperature": 24.6,
+      "discrepancy": 1.1999999999999993,
+      "timestamp": "2025-06-14 21:33:06"
+    }
+  ]
+}
