@@ -1,0 +1,202 @@
+[
+  {
+    "city": "Accra",
+    "temperature_web": 25,
+    "temperature_api": 300.38,
+    "average_temperature": 162.69,
+    "feels_like_web": 32,
+    "feels_like_api": 303.74,
+    "average_feels_like": 167.87,
+    "source": "combined"
+  },
+  {
+    "city": "Addis Ababa",
+    "temperature_web": 19,
+    "temperature_api": 291.64,
+    "average_temperature": 155.32,
+    "feels_like_web": 25,
+    "feels_like_api": 291.32,
+    "average_feels_like": 158.16,
+    "source": "combined"
+  },
+  {
+    "city": "Adelaide",
+    "temperature_web": 13,
+    "temperature_api": 284.3,
+    "average_temperature": 148.65,
+    "feels_like_web": 8,
+    "feels_like_api": 283.38,
+    "average_feels_like": 145.69,
+    "source": "combined"
+  },
+  {
+    "city": "Algiers",
+    "temperature_web": 23,
+    "temperature_api": 299.05,
+    "average_temperature": 161.025,
+    "feels_like_web": 27,
+    "feels_like_api": 299.63,
+    "average_feels_like": 163.315,
+    "source": "combined"
+  },
+  {
+    "city": "Almaty",
+    "temperature_web": 33,
+    "temperature_api": 305.1,
+    "average_temperature": 169.05,
+    "feels_like_web": 31,
+    "feels_like_api": 303.03,
+    "average_feels_like": 167.015,
+    "source": "combined"
+  },
+  {
+    "city": "Amman",
+    "temperature_web": 27,
+    "temperature_api": 300.2,
+    "average_temperature": 163.6,
+    "feels_like_web": 29,
+    "feels_like_api": 299.53,
+    "average_feels_like": 164.265,
+    "source": "combined"
+  },
+  {
+    "city": "Amsterdam",
+    "temperature_web": 20,
+    "temperature_api": 293.78,
+    "average_temperature": 156.89,
+    "feels_like_web": 25,
+    "feels_like_api": 293.57,
+    "average_feels_like": 159.285,
+    "source": "combined"
+  },
+  {
+    "city": "Anadyr",
+    "temperature_web": 5,
+    "temperature_api": 278.15,
+    "average_temperature": 141.575,
+    "feels_like_web": 6,
+    "feels_like_api": 278.15,
+    "average_feels_like": 142.075,
+    "source": "combined"
+  },
+  {
+    "city": "Anchorage",
+    "temperature_web": 11,
+    "temperature_api": 283.96,
+    "average_temperature": 147.48,
+    "feels_like_web": 11,
+    "feels_like_api": 283.26,
+    "average_feels_like": 147.13,
+    "source": "combined"
+  },
+  {
+    "city": "Ankara",
+    "temperature_web": 22,
+    "temperature_api": 293.93,
+    "average_temperature": 157.965,
+    "feels_like_web": 25,
+    "feels_like_api": 292.9,
+    "average_feels_like": 158.95,
+    "source": "combined"
+  },
+  {
+    "city": "Antananarivo",
+    "temperature_web": 18,
+    "temperature_api": 292.13,
+    "average_temperature": 155.065,
+    "feels_like_web": 21,
+    "feels_like_api": 291.52,
+    "average_feels_like": 156.26,
+    "source": "combined"
+  },
+  {
+    "city": "Asuncion",
+    "temperature_web": 21,
+    "temperature_api": 297.16,
+    "average_temperature": 159.08,
+    "feels_like_web": 24,
+    "feels_like_api": 297.76,
+    "average_feels_like": 160.88,
+    "source": "combined"
+  },
+  {
+    "city": "Athens",
+    "temperature_web": 27,
+    "temperature_api": 303.19,
+    "average_temperature": 165.095,
+    "feels_like_web": 30,
+    "feels_like_api": 302.27,
+    "average_feels_like": 166.135,
+    "source": "combined"
+  },
+  {
+    "city": "Atlanta",
+    "temperature_web": 22,
+    "temperature_api": 294.5,
+    "average_temperature": 158.25,
+    "feels_like_web": 26,
+    "feels_like_api": 294.88,
+    "average_feels_like": 160.44,
+    "source": "combined"
+  },
+  {
+    "city": "Auckland",
+    "temperature_web": 9,
+    "temperature_api": 282.14,
+    "average_temperature": 145.57,
+    "feels_like_web": 8,
+    "feels_like_api": 282.14,
+    "average_feels_like": 145.07,
+    "source": "combined"
+  },
+  {
+    "city": "Bangkok",
+    "temperature_web": 34,
+    "temperature_api": 309.54,
+    "average_temperature": 171.77,
+    "feels_like_web": 38,
+    "feels_like_api": 316.54,
+    "average_feels_like": 177.27,
+    "source": "combined"
+  },
+  {
+    "city": "Barcelona",
+    "temperature_web": 26,
+    "temperature_api": 300.76,
+    "average_temperature": 163.38,
+    "feels_like_web": 28,
+    "feels_like_api": 301.18,
+    "average_feels_like": 164.59,
+    "source": "combined"
+  },
+  {
+    "city": "Beijing",
+    "temperature_web": 33,
+    "temperature_api": 307.09,
+    "average_temperature": 170.045,
+    "feels_like_web": 29,
+    "feels_like_api": 305.36,
+    "average_feels_like": 167.18,
+    "source": "combined"
+  },
+  {
+    "city": "Beirut",
+    "temperature_web": 27,
+    "temperature_api": 299.56,
+    "average_temperature": 163.28,
+    "feels_like_web": 29,
+    "feels_like_api": 299.56,
+    "average_feels_like": 164.28,
+    "source": "combined"
+  },
+  {
+    "city": "Belgrade",
+    "temperature_web": 20,
+    "temperature_api": 296.09,
+    "average_temperature": 158.045,
+    "feels_like_web": 29,
+    "feels_like_api": 296.08,
+    "average_feels_like": 162.54,
+    "source": "combined"
+  }
+]

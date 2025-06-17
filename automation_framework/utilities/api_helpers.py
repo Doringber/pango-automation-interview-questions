@@ -8,5 +8,5 @@ class ApiHelper:
         url = f"{self.BASE_URL}?q={city}&appid={self.API_KEY}"
         print(url)
         response = requests.get(url)
-        print(response)
+        print(response.json())
         return response
