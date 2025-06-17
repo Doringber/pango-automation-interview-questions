@@ -1,122 +1,122 @@
 [
   {
     "city": "Accra",
-    "temperature_web_C": 26,
-    "feels_like_web_C": 27,
+    "temperature_web_C": 25,
+    "feels_like_web_C": 32,
     "source": "web"
   },
   {
     "city": "Addis Ababa",
-    "temperature_web_C": 13,
-    "feels_like_web_C": 14,
+    "temperature_web_C": 19,
+    "feels_like_web_C": 25,
     "source": "web"
   },
   {
     "city": "Adelaide",
-    "temperature_web_C": 12,
-    "feels_like_web_C": 12,
+    "temperature_web_C": 13,
+    "feels_like_web_C": 8,
     "source": "web"
   },
   {
     "city": "Algiers",
-    "temperature_web_C": 24,
-    "feels_like_web_C": 21,
-    "source": "web"
-  },
-  {
-    "city": "Almaty",
-    "temperature_web_C": 19,
+    "temperature_web_C": 23,
     "feels_like_web_C": 27,
     "source": "web"
   },
   {
+    "city": "Almaty",
+    "temperature_web_C": 33,
+    "feels_like_web_C": 31,
+    "source": "web"
+  },
+  {
     "city": "Amman",
-    "temperature_web_C": 21,
-    "feels_like_web_C": 20,
+    "temperature_web_C": 27,
+    "feels_like_web_C": 29,
     "source": "web"
   },
   {
     "city": "Amsterdam",
-    "temperature_web_C": 14,
-    "feels_like_web_C": 11,
+    "temperature_web_C": 20,
+    "feels_like_web_C": 25,
     "source": "web"
   },
   {
     "city": "Anadyr",
     "temperature_web_C": 5,
-    "feels_like_web_C": 5,
+    "feels_like_web_C": 6,
     "source": "web"
   },
   {
     "city": "Anchorage",
-    "temperature_web_C": 13,
-    "feels_like_web_C": 14,
+    "temperature_web_C": 11,
+    "feels_like_web_C": 11,
     "source": "web"
   },
   {
     "city": "Ankara",
-    "temperature_web_C": 16,
-    "feels_like_web_C": 10,
+    "temperature_web_C": 22,
+    "feels_like_web_C": 25,
     "source": "web"
   },
   {
     "city": "Antananarivo",
-    "temperature_web_C": 12,
-    "feels_like_web_C": 7,
+    "temperature_web_C": 18,
+    "feels_like_web_C": 21,
     "source": "web"
   },
   {
     "city": "Asuncion",
-    "temperature_web_C": 26,
-    "feels_like_web_C": 23,
+    "temperature_web_C": 21,
+    "feels_like_web_C": 24,
     "source": "web"
   },
   {
     "city": "Athens",
-    "temperature_web_C": 26,
-    "feels_like_web_C": 20,
+    "temperature_web_C": 27,
+    "feels_like_web_C": 30,
     "source": "web"
   },
   {
     "city": "Atlanta",
-    "temperature_web_C": 31,
-    "feels_like_web_C": 29,
+    "temperature_web_C": 22,
+    "feels_like_web_C": 26,
     "source": "web"
   },
   {
     "city": "Auckland",
-    "temperature_web_C": 12,
-    "feels_like_web_C": 14,
+    "temperature_web_C": 9,
+    "feels_like_web_C": 8,
     "source": "web"
   },
   {
     "city": "Bangkok",
-    "temperature_web_C": 28,
-    "feels_like_web_C": 35,
+    "temperature_web_C": 34,
+    "feels_like_web_C": 38,
     "source": "web"
   },
   {
     "city": "Barcelona",
-    "temperature_web_C": 22,
-    "feels_like_web_C": 21,
-    "source": "web"
-  },
-  {
-    "city": "Beijing",
-    "temperature_web_C": 19,
+    "temperature_web_C": 26,
     "feels_like_web_C": 28,
     "source": "web"
   },
   {
+    "city": "Beijing",
+    "temperature_web_C": 33,
+    "feels_like_web_C": 29,
+    "source": "web"
+  },
+  {
     "city": "Beirut",
-    "temperature_web_C": 25,
-    "feels_like_web_C": 21,
+    "temperature_web_C": 27,
+    "feels_like_web_C": 29,
     "source": "web"
   },
   {
     "city": "Belgrade",
-    "temperature_web_C": 23,
-    "feels_like_web_C": 18,
+    "temperature_web_C": 20,
+    "feels_like_web_C": 29,
     "source": "web"
   }
 ]

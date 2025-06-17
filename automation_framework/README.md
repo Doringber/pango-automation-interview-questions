@@ -41,7 +41,7 @@ I would add .env file to store sensative data such as API key and path.
 3. Run pip install -r requirements.txt
 4. Run pip freeze > requirements.txt
 
-# Run 
+# Run Tests
 
 1. To run all the tests togther run --> python -m pytest -s .\tests\
 2. To run each file test:
@@ -50,3 +50,9 @@ I would add .env file to store sensative data such as API key and path.
     -  python -m pytest -s .\tests\test_openweather_web.py 
     -  python -m pytest -s .\tests\test_end_to_end.py  
 
+# View Report
+
+1. In Visual Studio marketplace install HTML Preview
+2. Double click on the html file under report
+3. Press inside the file with the mouse to fucos the file
+4. Press ctrl+shift+V (Windows) or cmd+k v (Mac)
