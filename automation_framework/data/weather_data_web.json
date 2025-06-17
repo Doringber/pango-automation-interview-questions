@@ -1,13 +1,13 @@
 [
   {
     "city": "Accra",
-    "temperature_web_C": 27,
-    "feels_like_web_C": 31,
+    "temperature_web_C": 26,
+    "feels_like_web_C": 27,
     "source": "web"
   },
   {
     "city": "Addis Ababa",
-    "temperature_web_C": 14,
+    "temperature_web_C": 13,
     "feels_like_web_C": 14,
     "source": "web"
   },
@@ -20,31 +20,31 @@
   {
     "city": "Algiers",
     "temperature_web_C": 24,
-    "feels_like_web_C": 25,
+    "feels_like_web_C": 21,
     "source": "web"
   },
   {
     "city": "Almaty",
-    "temperature_web_C": 20,
-    "feels_like_web_C": 20,
+    "temperature_web_C": 19,
+    "feels_like_web_C": 27,
     "source": "web"
   },
   {
     "city": "Amman",
-    "temperature_web_C": 22,
+    "temperature_web_C": 21,
     "feels_like_web_C": 20,
     "source": "web"
   },
   {
     "city": "Amsterdam",
-    "temperature_web_C": 16,
+    "temperature_web_C": 14,
     "feels_like_web_C": 11,
     "source": "web"
   },
   {
     "city": "Anadyr",
     "temperature_web_C": 5,
-    "feels_like_web_C": 4,
+    "feels_like_web_C": 5,
     "source": "web"
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "city": "Antananarivo",
-    "temperature_web_C": 10,
+    "temperature_web_C": 12,
     "feels_like_web_C": 7,
     "source": "web"
   },
@@ -85,19 +85,19 @@
   },
   {
     "city": "Auckland",
-    "temperature_web_C": 10,
-    "feels_like_web_C": 8,
+    "temperature_web_C": 12,
+    "feels_like_web_C": 14,
     "source": "web"
   },
   {
     "city": "Bangkok",
     "temperature_web_C": 28,
-    "feels_like_web_C": 30,
+    "feels_like_web_C": 35,
     "source": "web"
   },
   {
     "city": "Barcelona",
-    "temperature_web_C": 23,
+    "temperature_web_C": 22,
     "feels_like_web_C": 21,
     "source": "web"
   },
@@ -109,7 +109,7 @@
   },
   {
     "city": "Beirut",
-    "temperature_web_C": 24,
+    "temperature_web_C": 25,
     "feels_like_web_C": 21,
     "source": "web"
   },

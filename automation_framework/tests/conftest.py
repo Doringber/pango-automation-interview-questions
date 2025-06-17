@@ -4,7 +4,8 @@ from selenium import webdriver
 from automation_framework.utilities.db_helpers import DatabaseHelper
 from automation_framework.utilities.json_helper import JsonCreator
 from automation_framework.utilities.api_helpers import ApiHelper
-
+from utilities.logger_helper import setup_logger
+logger = setup_logger()
 
 
 @pytest.fixture(scope="module")
@@ -18,7 +19,7 @@ def driver():
 
 @pytest.fixture(scope="module")
 def db_helper():
-    yield DatabaseHelper()
+    yield DatabaseHelper(logger)
 
 
 @pytest.fixture(scope="module")
