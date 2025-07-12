@@ -1,0 +1,22 @@
+cities_with_countries_dict = {
+    "Oslo": "Norway",
+    "Tokyo": "Japan",
+    "Hanoi": "Vietnam",
+    "Paris": "France",
+    "Havana": "Cuba",
+    "Mumbai": "India",
+    "Sydney": "Australia",
+    "Moscow": "Russia",
+    "Cairo": "Egypt",
+    "Toronto": "Canada",
+    "Bangkok": "Thailand",
+    "Istanbul": "Turkey",
+    "Berlin": "Germany",
+    "Warsaw": "Poland",
+    "Amman": "Jordan",
+    "Beijing": "China",
+    "Singapore": "Singapore",
+    "Nairobi": "Kenya",
+    "Athens": "Greece",
+    "Lagos": "Nigeria"
+}
